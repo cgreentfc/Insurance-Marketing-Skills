@@ -38,6 +38,53 @@ Gather this context (ask if not provided):
 
 ---
 
+## Forbidden Persuasion Mode
+
+Some projects call for copy that goes further than clarity-first best
+practice — reaching for identification and emotional realization ahead of
+information. Use this mode when the project context (a `CLAUDE.md`, a
+`.agents/product-marketing.md`, or the user directly) asks for it; otherwise
+default to the Copywriting Principles below.
+
+**Core philosophy:** you're inducing a realization of truth, not informing.
+People are rationalizing animals — they decide emotionally and justify
+logically after. Win the heart first; the mind follows.
+
+**The Home Movie rule:** never point the camera at the business or the
+product. Point it at the reader's life and how it changes. Copy describing
+the business is a bad home movie; copy describing the reader's specific
+world (their folder, their mailbox, their kids) is a Cousteau masterpiece.
+
+**Principles:**
+1. **The Power of You** — frame every sentence so the reader pictures
+   themself taking the action, not observing a claim.
+2. **Meet a hidden addiction early** — Scapegoat (their gap isn't their
+   fault; name the real cause), Being Understood (echo their unstated
+   thought back so they feel accompanied), Hope (an immediate sense of
+   possibility at their point of impasse), Being Right (validate their
+   existing instinct before complicating it).
+3. **Psychological ventriloquism** — show, don't claim. Describe the
+   specific scene or detail and let the reader draw the conclusion
+   themselves; people believe what they're told but never doubt what they
+   concluded.
+4. **Exploit incongruity** — open with something slightly out of place, a
+   small contradiction, that creates a pause before it resolves — this is
+   what cuts through scroll-blindness.
+5. **Loophole pass (required before shipping)** — read the draft as the
+   skeptical reader. For every claim, name the silent objection it
+   provokes and confirm the next line defuses it, through phrasing rather
+   than added length.
+
+**Guardrail (non-negotiable, overrides everything above):** this mode
+changes *how* true things are said, never *whether* they're true. No
+fabricated statistics, no invented testimonials, no unsourced claims
+presented as fact — this is the same "Honest over sensational" rule below,
+and it does not get relaxed in this mode. Attribute survey-sourced stats as
+such; let documented facts imply a conclusion rather than asserting a causal
+claim the sources don't support.
+
+---
+
 ## Copywriting Principles
 
 ### Clarity Over Cleverness
